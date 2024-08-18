@@ -5,7 +5,7 @@ import Wheel from "../components/Wheel/Wheel";
 import Navbar from "../components/Navbar/Navbar";
 import SocialMedia from "../components/SocialMedia/SocialMedia";
 import HeroBox from "../components/HeroBox/HeroBox";
-import MyResume from "../assets/Ayelabolaresume.pdff"
+import MyResume from "../assets/Ayelabolaresume.pdf"
 
 const Home = () => {
   const [symbolClick, setsymbolClick] = useState(false);
