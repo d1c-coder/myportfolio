@@ -21,7 +21,7 @@ const MySkill = () => {
           <div className="skill-left-second-heading">
           <strong>I CODE IN</strong>
           <br />
-          <p> Html, Css, Javascript, Php, Flutter</p>
+          <p> Html, Css, Javascript, Php, React, Flutter</p>
           </div>
           <div className="skill-left-tool">
           <strong>Tools</strong>
@@ -45,7 +45,7 @@ const MySkill = () => {
           <div className="skill-right-second-heading">
           <strong>I like to code in</strong>
           <br />
-          <p> PHP , Laravel</p>
+          <p> Postgress, Express, Node</p>
           </div>
           <div className="skill-right-tool">
           <strong>Tools</strong>
