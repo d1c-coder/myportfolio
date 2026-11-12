@@ -34,11 +34,11 @@ const projectsData = [
   },
     {
       id: 4,
-      name: "Clothing Website",
-      discription:"An e-commerce site for a clothing brand in nigeria ",
+      name: "Crypto Website",
+      discription:"A crypto WEBSITE ",
       image: hotel,
       tags:"#HTML #CSS #PHP",
-      link: "https://olafashionfac.pages.dev/",
+      link: "https://trixai.xyz",
       gitlink:"https://github.com/null"
     }
    
